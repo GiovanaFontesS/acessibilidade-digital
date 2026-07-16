@@ -17,9 +17,71 @@ No Brasil, a **Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 1
 
 Dessa forma, desenvolver sistemas acessíveis vai além da conformidade com normas técnicas: trata-se de promover inclusão, igualdade de oportunidades e garantir que todas as pessoas possam utilizar os recursos digitais de maneira plena.
 
----
+## Quem se beneficia da acessibilidade digital?
+
+Embora a acessibilidade digital seja frequentemente associada às pessoas com deficiência, ela beneficia uma grande diversidade de usuários. Cada deficiência possui necessidades específicas, e por isso é importante que os sistemas sejam desenvolvidos de forma inclusiva, considerando diferentes formas de interação.
+
+###  Deficiência visual
+
+Pessoas cegas, com baixa visão ou daltonismo necessitam de recursos que facilitem a navegação e a compreensão do conteúdo. Entre eles estão:
+
+- Textos alternativos (atributo `alt`) em imagens;
+- Bom contraste entre texto e fundo;
+- Compatibilidade com leitores de tela;
+- Possibilidade de ampliar textos sem perda de qualidade.
 
 ---
+
+###  Deficiência auditiva
+
+Pessoas surdas ou com perda auditiva podem encontrar dificuldades para compreender conteúdos exclusivamente em áudio. Alguns recursos importantes são:
+
+- Legendas em vídeos;
+- Transcrições de áudios e podcasts;
+- Intérprete de Libras, quando possível;
+- Avisos visuais em vez de apenas sonoros.
+
+---
+
+###  Deficiência motora ou física
+
+Pessoas com mobilidade reduzida, ausência de membros superiores ou dificuldades nos movimentos podem não conseguir utilizar um mouse com facilidade. Para esses usuários, é importante oferecer:
+
+- Navegação completa utilizando apenas o teclado;
+- Botões e áreas de clique maiores;
+- Tempo suficiente para realizar ações;
+- Compatibilidade com dispositivos assistivos.
+
+---
+
+###  Deficiência cognitiva ou intelectual
+
+Pessoas com dificuldades de compreensão, memória, atenção ou concentração podem se beneficiar de interfaces mais simples e organizadas. Algumas boas práticas incluem:
+
+- Linguagem clara e objetiva;
+- Layout intuitivo e consistente;
+- Instruções simples;
+- Evitar excesso de informações na mesma tela.
+
+---
+
+###  Deficiências temporárias ou situacionais
+
+A acessibilidade também beneficia pessoas que enfrentam limitações temporárias ou situações específicas do dia a dia, como:
+
+- Pessoas com braço ou mão engessados;
+- Idosos com redução da visão ou da coordenação motora;
+- Usuários utilizando dispositivos com telas pequenas;
+- Pessoas em ambientes com pouca iluminação ou muito barulho.
+
+Essas situações demonstram que a acessibilidade não beneficia apenas pessoas com deficiência permanente, mas melhora a experiência de uso para todos.
+
+---
+
+Cada grupo de usuários possui necessidades diferentes. Por isso, não basta que um site ofereça apenas alguns recursos de acessibilidade voltados para um único público. É necessário considerar as diferentes necessidades de cada usuário, criando sistemas mais inclusivos e acessíveis para todos.
+
+---
+
 
 ## Referências e Histórico
 
