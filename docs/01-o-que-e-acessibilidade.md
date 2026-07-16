@@ -17,6 +17,7 @@ No Brasil, a **Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 1
 
 Dessa forma, desenvolver sistemas acessíveis vai além da conformidade com normas técnicas: trata-se de promover inclusão, igualdade de oportunidades e garantir que todas as pessoas possam utilizar os recursos digitais de maneira plena.
 
+---
 ## Quem se beneficia da acessibilidade digital?
 
 Embora a acessibilidade digital seja frequentemente associada às pessoas com deficiência, ela beneficia uma grande diversidade de usuários. Cada deficiência possui necessidades específicas, e por isso é importante que os sistemas sejam desenvolvidos de forma inclusiva, considerando diferentes formas de interação.
@@ -30,7 +31,7 @@ Pessoas cegas, com baixa visão ou daltonismo necessitam de recursos que facilit
 - Compatibilidade com leitores de tela;
 - Possibilidade de ampliar textos sem perda de qualidade.
 
----
+
 
 ###  Deficiência auditiva
 
@@ -41,7 +42,7 @@ Pessoas surdas ou com perda auditiva podem encontrar dificuldades para compreend
 - Intérprete de Libras, quando possível;
 - Avisos visuais em vez de apenas sonoros.
 
----
+
 
 ###  Deficiência motora ou física
 
@@ -52,7 +53,7 @@ Pessoas com mobilidade reduzida, ausência de membros superiores ou dificuldades
 - Tempo suficiente para realizar ações;
 - Compatibilidade com dispositivos assistivos.
 
----
+
 
 ###  Deficiência cognitiva ou intelectual
 
@@ -63,7 +64,7 @@ Pessoas com dificuldades de compreensão, memória, atenção ou concentração 
 - Instruções simples;
 - Evitar excesso de informações na mesma tela.
 
----
+
 
 ###  Deficiências temporárias ou situacionais
 
@@ -76,7 +77,7 @@ A acessibilidade também beneficia pessoas que enfrentam limitações temporári
 
 Essas situações demonstram que a acessibilidade não beneficia apenas pessoas com deficiência permanente, mas melhora a experiência de uso para todos.
 
----
+
 
 Cada grupo de usuários possui necessidades diferentes. Por isso, não basta que um site ofereça apenas alguns recursos de acessibilidade voltados para um único público. É necessário considerar as diferentes necessidades de cada usuário, criando sistemas mais inclusivos e acessíveis para todos.
 
