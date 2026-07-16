@@ -23,6 +23,7 @@ O objetivo é reunir informações, conceitos, boas práticas e exemplos relacio
 Além disso, o repositório busca incentivar o desenvolvimento de sistemas mais inclusivos, apresentando princípios, recomendações e técnicas que contribuam para a criação de aplicações acessíveis para diferentes perfis de usuários.
 
 Todo o conteúdo será elaborado com base em pesquisas em artigos científicos, livros, documentações oficiais e outras fontes confiáveis, sempre com finalidade educacional.
+
 ---
 
 # Objetivos
