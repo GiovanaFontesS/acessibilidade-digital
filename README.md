@@ -55,8 +55,8 @@ acessibilidade-digital/
 
 | Tema | Status |
 |------|--------|
-| O que é Acessibilidade |  Em desenvolvimento |
-| Importância |  Em desenvolvimento |
+| O que é Acessibilidade |  Concluído |
+| Importância |  Concluído |
 | WCAG |  Em desenvolvimento |
 | Tecnologias Assistivas |  Em desenvolvimento |
 | HTML Semântico |  Em desenvolvimento |
