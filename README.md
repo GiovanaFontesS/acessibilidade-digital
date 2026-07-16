@@ -16,10 +16,13 @@ Organização de conteúdos, conceitos e exemplos sobre **Acessibilidade Digital
 
 # Sobre
 
-Este repositório reúne meus estudos sobre **Acessibilidade Digital**, desenvolvidos durante a graduação em **Ciência da Computação**.
+Este repositório foi criado após a realização da disciplina **Interação Humano-Computador (IHC)**, cursada no **segundo semestre de 2025 (2025.2)** durante a graduação em **Engenharia de Software**.
 
-O objetivo é registrar conceitos, boas práticas, exemplos e referências sobre desenvolvimento inclusivo, criando um material de consulta para futuros projetos.
+O objetivo é reunir informações, conceitos, boas práticas e exemplos relacionados à **Acessibilidade Digital**, promovendo a organização dos estudos desenvolvidos ao longo da disciplina e servindo como material de consulta para futuros projetos.
 
+Além disso, o repositório busca incentivar o desenvolvimento de sistemas mais inclusivos, apresentando princípios, recomendações e técnicas que contribuam para a criação de aplicações acessíveis para diferentes perfis de usuários.
+
+Todo o conteúdo será elaborado com base em pesquisas em artigos científicos, livros, documentações oficiais e outras fontes confiáveis, sempre com finalidade educacional.
 ---
 
 # Objetivos
@@ -73,13 +76,6 @@ acessibilidade-digital/
 
 ---
 
-#  Objetivo do Repositório
-
-> Este projeto possui finalidade exclusivamente educacional.
->
-> Todo o conteúdo será produzido a partir de pesquisas em artigos, livros e documentações oficiais.
-
----
 
 <div align="center">
 
