@@ -1,60 +1,90 @@
+<div align="center">
+
 # Acessibilidade Digital
 
-> Repositório de estudos sobre acessibilidade digital, desenvolvimento inclusivo e boas práticas para criação de sistemas acessíveis.
+### Repositório de Estudos
+
+Organização de conteúdos, conceitos e exemplos sobre **Acessibilidade Digital**.
+
+![GitHub repo size](https://img.shields.io/github/repo-size/GiovanaFontesS/acessibilidade-digital?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/GiovanaFontesS/acessibilidade-digital?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/GiovanaFontesS/acessibilidade-digital?style=for-the-badge)
+
+</div>
 
 ---
 
-## 📖 Sobre
+# Sobre
 
-Este repositório foi criado com o objetivo de reunir meus estudos sobre **Acessibilidade Digital**, disciplina cursada durante a graduação em Ciência da Computação.
+Este repositório reúne meus estudos sobre **Acessibilidade Digital**, desenvolvidos durante a graduação em **Ciência da Computação**.
 
-Aqui serão organizados conceitos, exemplos práticos, referências e boas práticas relacionadas ao desenvolvimento de aplicações acessíveis.
-
----
-
-## Objetivos
-
-- Organizar meus estudos.
-- Compartilhar conhecimento.
-- Registrar exemplos práticos.
-- Aprender sobre desenvolvimento inclusivo.
-- Manter um material de consulta para futuros projetos.
+O objetivo é registrar conceitos, boas práticas, exemplos e referências sobre desenvolvimento inclusivo, criando um material de consulta para futuros projetos.
 
 ---
 
-## Conteúdo
+# Objetivos
 
-- O que é acessibilidade digital
-- Importância da acessibilidade
-- Princípios da WCAG
-- Tecnologias assistivas
-- Boas práticas
-- HTML semântico
-- Formulários acessíveis
-- Contraste de cores
-- Referências
+-  Organizar meus estudos
+-  Aprender sobre acessibilidade digital
+-  Compartilhar exemplos práticos
+-  Incentivar o desenvolvimento inclusivo
+-  Manter um material de consulta
 
 ---
 
-## Estrutura do projeto
+#  Estrutura do projeto
 
-```
-docs/
-exemplos/
-README.md
-LICENSE
+```text
+acessibilidade-digital/
+
+📁 docs
+📁 exemplos
+
+📄 README.md
+📄 LICENSE
+📄 .gitignore
 ```
 
 ---
 
-## Aviso
+#  Conteúdo
 
-Este repositório possui finalidade exclusivamente educacional.
-
-Todo o conteúdo será produzido com base em estudos, artigos científicos, livros e documentações oficiais.
+| Tema | Status |
+|------|--------|
+| O que é Acessibilidade |  Em desenvolvimento |
+| Importância |  Em desenvolvimento |
+| WCAG |  Em desenvolvimento |
+| Tecnologias Assistivas |  Em desenvolvimento |
+| HTML Semântico |  Em desenvolvimento |
+| Formulários Acessíveis |  Em desenvolvimento |
+| Contraste de Cores |  Em desenvolvimento |
+| Boas Práticas |  Em desenvolvimento |
+| Referências |  Em desenvolvimento |
 
 ---
 
-## Autora
+# Tecnologias abordadas
 
-Giovana Fontes
+- HTML
+- CSS
+- JavaScript
+- WCAG
+- WAI-ARIA
+
+---
+
+#  Objetivo do Repositório
+
+> Este projeto possui finalidade exclusivamente educacional.
+>
+> Todo o conteúdo será produzido a partir de pesquisas em artigos, livros e documentações oficiais.
+
+---
+
+<div align="center">
+
+###  Desenvolvido por Giovana Fontes
+
+⭐ Se este material for útil, fique à vontade para deixar uma estrela no repositório!
+
+</div>
