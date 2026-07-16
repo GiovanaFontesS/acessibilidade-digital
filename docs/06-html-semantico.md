@@ -10,6 +10,7 @@
 
 | Referência | Autor/Instituição | Data | Observação |
 |------------|-------------------|------|------------|
-| - | - | - | Documento criado |
+| - | Giovana Fontes | 16/07/2026 | Documento criado |
+
 
 ---
