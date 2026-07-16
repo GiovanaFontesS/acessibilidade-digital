@@ -94,9 +94,16 @@ Cada grupo de usuários possui necessidades diferentes. Por isso, não basta que
 ---
 
 
-## Referências e Histórico
+##  Referências e Histórico
 
 | Referência | Autor/Instituição | Data | Observação |
 |------------|-------------------|------|------------|
-| - | Giovana Fontes | 16/07/2026 | Documento criado |
+| Documento criado | Giovana Fontes | 16/07/2026 | Estrutura inicial do documento. |
+| Censo Demográfico 2010 | Instituto Brasileiro de Geografia e Estatística (IBGE) | 16/07/2026 | Dados sobre a população com deficiência no Brasil. |
+| Nota Técnica nº 01/2018 – Releitura dos dados do Censo 2010 | Instituto Brasileiro de Geografia e Estatística (IBGE) | 16/07/2026 | Atualização dos critérios para identificação de pessoas com deficiência. |
+| Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua) | Instituto Brasileiro de Geografia e Estatística (IBGE) | 16/07/2026 | Dados mais recentes sobre pessoas com deficiência no Brasil. |
+| Declaração Universal dos Direitos Humanos (1948) | Organização das Nações Unidas (ONU) | 16/07/2026 | Fundamentação sobre igualdade e direitos humanos. |
+| Convenção Internacional sobre os Direitos das Pessoas com Deficiência | Organização das Nações Unidas (ONU) | 16/07/2026 | Base para os direitos das pessoas com deficiência. |
+| Lei Brasileira de Inclusão da Pessoa com Deficiência – Lei nº 13.146/2015 | Presidência da República | 16/07/2026 | Art. 63 – Obrigatoriedade da acessibilidade em sítios da internet. |
+| *A Acessibilidade à Informação no Espaço Digital* | SciELO / SCImago Institutions Rankings | 16/07/2026 | Base conceitual para a definição de acessibilidade digital. |
 
