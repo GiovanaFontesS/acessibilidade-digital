@@ -1,8 +1,6 @@
 # O que é Acessibilidade Digital? 
 ---
 
-A **acessibilidade digital** consiste na criação e adaptação de ambientes, sistemas e conteúdos digitais para que todas as pessoas possam utilizá-los de forma autônoma, segura e eficiente, independentemente de suas limitações físicas, sensoriais, cognitivas ou tecnológicas.
-
  A falta de acessibilidade no ambiente digital impacta principalmente pessoas com deficiências permanentes ou temporárias, dificultando e, em muitos casos, impossibilitando o acesso a sites, aplicativos, plataformas e demais serviços disponíveis na internet. Barreiras como imagens sem descrição, ausência de navegação por teclado, baixo contraste entre cores, vídeos sem legendas e incompatibilidade com tecnologias assistivas comprometem a experiência do usuário e limitam o acesso à informação.
 
  Segundo o **Censo Demográfico de 2010**, aproximadamente **45,6 milhões de brasileiros** declararam possuir algum tipo de deficiência. Em **2018**, o Instituto Brasileiro de Geografia e Estatística (IBGE) publicou uma nota técnica propondo novos critérios para a identificação de pessoas com deficiência, reduzindo essa estimativa para **12,7 milhões de pessoas**, o equivalente a **6,7% da população brasileira**. Posteriormente, a **Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua)** apresentou uma estimativa mais recente, indicando que o Brasil possui aproximadamente **18,6 milhões de pessoas com deficiência**.
@@ -15,7 +13,18 @@ No Brasil, a **Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 1
 
 > *"É obrigatória a acessibilidade nos sítios da internet mantidos por empresas com sede ou representação comercial no País ou por órgãos de governo, para uso da pessoa com deficiência, garantindo-lhe acesso às informações disponíveis, conforme as melhores práticas e diretrizes de acessibilidade adotadas internacionalmente."*
 
-Dessa forma, desenvolver sistemas acessíveis vai além da conformidade com normas técnicas: trata-se de promover inclusão, igualdade de oportunidades e garantir que todas as pessoas possam utilizar os recursos digitais de maneira plena.
+
+A acessibilidade digital pode ser definida como o conjunto de práticas, recursos e tecnologias que possibilitam que qualquer pessoa utilize ambientes digitais com segurança, autonomia e igualdade, independentemente de possuir ou não alguma deficiência.
+
+Mais do que um conjunto de ferramentas, a acessibilidade é um processo contínuo, acompanhando a evolução da tecnologia e, principalmente, da sociedade. À medida que novas formas de interação surgem e a inclusão se torna cada vez mais necessária, novas soluções também são desenvolvidas para garantir que todos possam participar do ambiente digital de forma plena.
+
+Embora muitas pessoas associem a acessibilidade apenas ao meio digital, esse conceito também está presente no espaço físico. A legislação brasileira define acessibilidade como a possibilidade e condição de alcance para utilização, com segurança e autonomia, de espaços, edificações, transportes, sistemas e meios de comunicação por pessoas com deficiência ou com mobilidade reduzida. No ambiente digital, esse princípio é aplicado a sites, aplicativos, plataformas, documentos eletrônicos e demais tecnologias utilizadas no dia a dia.
+
+Na prática, isso significa desenvolver interfaces que respeitem as diferentes necessidades dos usuários, oferecendo recursos como textos alternativos para imagens, navegação por teclado, contraste adequado entre cores, compatibilidade com leitores de tela, legendas em vídeos e linguagem clara. Esses recursos tornam a navegação mais simples e inclusiva, beneficiando não apenas pessoas com deficiência, mas também idosos, pessoas com limitações temporárias e usuários em diferentes contextos de uso.
+
+Portanto, a acessibilidade digital não deve ser vista como um recurso opcional ou destinado apenas a um grupo específico de pessoas. Ela representa um princípio fundamental para o desenvolvimento de tecnologias mais inclusivas, garantindo que todos tenham igualdade de acesso à informação, aos serviços e às oportunidades oferecidas no ambiente digital.
+
+>  **Acessibilidade digital não significa criar uma versão diferente de um sistema para pessoas com deficiência, mas desenvolver soluções que possam ser utilizadas por todos, respeitando as diferentes necessidades de cada usuário.**
 
 ---
 ## Quem se beneficia da acessibilidade digital?
@@ -80,6 +89,7 @@ Essas situações demonstram que a acessibilidade não beneficia apenas pessoas 
 
 
 Cada grupo de usuários possui necessidades diferentes. Por isso, não basta que um site ofereça apenas alguns recursos de acessibilidade voltados para um único público. É necessário considerar as diferentes necessidades de cada usuário, criando sistemas mais inclusivos e acessíveis para todos.
+
 
 ---
 
