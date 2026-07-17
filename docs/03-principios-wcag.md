@@ -61,6 +61,14 @@ Essas técnicas podem ser:
 
 Todas essas camadas trabalham em conjunto para orientar a criação de conteúdos mais acessíveis. Embora seja possível alcançar diferentes níveis de conformidade, é importante destacar que nem mesmo o nível **AAA** consegue atender, em todos os casos, às necessidades de todas as pessoas e de todos os tipos de deficiência. Por isso, a acessibilidade deve ser encarada como um processo contínuo de melhoria.
 
+##  WCAG 2.2 e as versões anteriores
+
+A **WCAG 2.2** representa uma evolução das versões anteriores, especialmente da **WCAG 2.1**. Em vez de substituir completamente as diretrizes existentes, essa versão amplia e aperfeiçoa os critérios já estabelecidos, tornando-os mais completos e atualizados.
+
+As principais melhorias da WCAG 2.2 estão relacionadas à acessibilidade para **pessoas com deficiências cognitivas ou de aprendizagem**, **usuários com baixa visão** e **pessoas que acessam a Web por dispositivos móveis**.
+
+Apesar desses avanços, o próprio W3C destaca que a WCAG 2.2 não consegue atender a todas as necessidades e situações existentes. Por isso, a acessibilidade deve ser entendida como um processo contínuo de evolução, acompanhando o desenvolvimento da tecnologia e as diferentes necessidades dos usuários.
+
 ---
 
 ## Referências e Histórico
@@ -70,5 +78,5 @@ Todas essas camadas trabalham em conjunto para orientar a criação de conteúdo
 | Documento criado | Giovana Fontes | 6/07/2026 | Estrutura inicial do documento. |
 | Web Content Accessibility Guidelines (WCAG) 2.2 | W3C – Web Accessibility Initiative (WAI) | 17/07/2026 | Base para a introdução e definição da WCAG. |
 
----
+
 ---
