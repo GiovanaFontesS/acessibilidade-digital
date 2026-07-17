@@ -14,6 +14,53 @@ As diretrizes são desenvolvidas pelo **World Wide Web Consortium (W3C)**, por m
 
 Nos tópicos a seguir serão apresentados os quatro princípios fundamentais da WCAG, que servem como base para a criação de conteúdos digitais verdadeiramente acessíveis.
 
+## Camadas de Orientação da WCAG
+
+As diretrizes da WCAG são organizadas em diferentes camadas de orientação. Essa estrutura facilita a compreensão e a aplicação das recomendações durante o desenvolvimento de conteúdos acessíveis.
+
+### Princípios
+
+Os **princípios** representam a base da WCAG. Eles definem os quatro pilares fundamentais da acessibilidade na Web:
+
+-  **Perceptível**
+-  **Operável**
+-  **Compreensível**
+-  **Robusto**
+
+Todo conteúdo acessível deve seguir esses quatro princípios.
+
+---
+
+### Diretrizes
+
+As **diretrizes** detalham os objetivos que devem ser alcançados para tornar o conteúdo mais acessível. Elas orientam desenvolvedores e designers sobre as boas práticas de acessibilidade, mas não são utilizadas diretamente para testes de conformidade.
+
+---
+
+### Critérios de Sucesso
+
+Cada diretriz possui **critérios de sucesso**, que são requisitos objetivos e verificáveis. São eles que permitem avaliar se uma página está ou não em conformidade com a WCAG.
+
+Os critérios são divididos em três níveis de conformidade:
+
+- **Nível A:** requisitos básicos de acessibilidade;
+- **Nível AA:** nível recomendado para a maioria dos sites e aplicações;
+- **Nível AAA:** nível mais alto de acessibilidade, recomendado quando tecnicamente possível.
+
+---
+
+### Técnicas
+
+Além dos critérios de sucesso, a WCAG apresenta diversas **técnicas** que auxiliam os desenvolvedores na implementação das diretrizes.
+
+Essas técnicas podem ser:
+
+- **Suficientes:** atendem aos critérios de sucesso.
+- **Aconselhadas:** representam boas práticas adicionais que tornam a experiência ainda mais acessível.
+
+
+Todas essas camadas trabalham em conjunto para orientar a criação de conteúdos mais acessíveis. Embora seja possível alcançar diferentes níveis de conformidade, é importante destacar que nem mesmo o nível **AAA** consegue atender, em todos os casos, às necessidades de todas as pessoas e de todos os tipos de deficiência. Por isso, a acessibilidade deve ser encarada como um processo contínuo de melhoria.
+
 ---
 
 ## Referências e Histórico
