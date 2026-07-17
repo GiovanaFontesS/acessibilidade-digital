@@ -69,15 +69,51 @@ As principais melhorias da WCAG 2.2 estão relacionadas à acessibilidade para *
 
 Apesar desses avanços, o próprio W3C destaca que a WCAG 2.2 não consegue atender a todas as necessidades e situações existentes. Por isso, a acessibilidade deve ser entendida como um processo contínuo de evolução, acompanhando o desenvolvimento da tecnologia e as diferentes necessidades dos usuários.
 
-##  Nível A
+## Níveis de Conformidade da WCAG
 
-O **Nível A** representa o nível básico de conformidade da WCAG. Ele reúne os requisitos mínimos que um site ou aplicação deve atender para reduzir as principais barreiras de acessibilidade. Caso esses critérios não sejam cumpridos, muitas pessoas com deficiência podem ter dificuldades ou até mesmo ficar impossibilitadas de utilizar o conteúdo.
+A WCAG divide seus critérios de acessibilidade em três níveis de conformidade: **A**, **AA** e **AAA**. Cada nível representa um grau maior de acessibilidade, sendo recomendado que a maioria dos sites busque, no mínimo, o nível **AA**.
 
-Entre os principais critérios desse nível está a disponibilização de **alternativas textuais para conteúdos não textuais**, como imagens, ícones e botões. Dessa forma, tecnologias assistivas, como leitores de tela, conseguem interpretar e transmitir essas informações aos usuários. Imagens meramente decorativas, por outro lado, devem ser identificadas corretamente para que possam ser ignoradas por essas tecnologias.
+### Nível A
 
-Outro aspecto importante é a acessibilidade em conteúdos multimídia. Áudios, vídeos e outros conteúdos baseados em tempo devem oferecer recursos como **transcrições, legendas, audiodescrição ou outras alternativas equivalentes**, permitindo que pessoas com diferentes tipos de deficiência tenham acesso às mesmas informações.
+O **Nível A** reúne os requisitos básicos de acessibilidade. Seu objetivo é remover as principais barreiras que impedem usuários com deficiência de acessar o conteúdo.
 
-Embora o Nível A represente o primeiro passo para tornar um conteúdo acessível, ele não garante uma experiência completa para todos os usuários. Por isso, recomenda-se que, sempre que possível, sejam adotados também os critérios dos níveis **AA** e **AAA**.
+Alguns exemplos incluem:
+
+- Fornecer texto alternativo para imagens e outros conteúdos não textuais;
+- Disponibilizar transcrições para conteúdos apenas em áudio e alternativas para vídeos;
+- Não utilizar apenas cores para transmitir informações;
+- Permitir que informações e a estrutura da página sejam interpretadas por tecnologias assistivas;
+- Evitar que áudios sejam reproduzidos automaticamente sem opção de pausa ou controle.
+
+---
+
+### Nível AA
+
+O **Nível AA** amplia os requisitos do nível anterior e é considerado o nível recomendado para a maioria dos sites e aplicações.
+
+Entre os critérios estão:
+
+- Disponibilizar legendas para transmissões ao vivo;
+- Oferecer audiodescrição para vídeos pré-gravados;
+- Garantir que a página funcione tanto na orientação vertical quanto horizontal, quando aplicável;
+- Identificar corretamente campos de formulários para facilitar o preenchimento automático e o uso por tecnologias assistivas.
+
+---
+
+### Nível AAA
+
+O **Nível AAA** representa o mais alto nível de acessibilidade previsto pela WCAG. Seus critérios oferecem uma experiência ainda mais inclusiva, porém nem sempre são viáveis para todos os tipos de conteúdo.
+
+Alguns exemplos são:
+
+- Disponibilizar interpretação em língua de sinais para vídeos;
+- Oferecer audiodescrição estendida quando necessário;
+- Fornecer alternativas completas para conteúdos multimídia;
+- Identificar programaticamente a finalidade de componentes da interface, como ícones e regiões da página.
+
+---
+
+Embora o nível **AAA** represente o maior grau de conformidade, a própria WCAG reconhece que nem todos os sites conseguirão atender a todos os seus critérios. Por esse motivo, o **Nível AA** é considerado o padrão mais adotado internacionalmente para o desenvolvimento de aplicações acessíveis.
 
 ---
 
