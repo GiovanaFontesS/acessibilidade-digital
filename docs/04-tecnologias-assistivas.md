@@ -11,6 +11,14 @@ No Brasil, o termo **Tecnologia Assistiva** passou a ser utilizado oficialmente 
 
 Ao longo deste documento serão apresentadas algumas das principais tecnologias assistivas utilizadas atualmente e como elas contribuem para tornar a web mais acessível para todos.
 
+##  Importância das Tecnologias Assistivas
+
+As tecnologias assistivas desempenham um papel fundamental na promoção da inclusão e da acessibilidade. Seu principal objetivo é reduzir as barreiras enfrentadas por pessoas com deficiência ou mobilidade reduzida, proporcionando mais autonomia, independência e qualidade de vida no dia a dia.
+
+Além de beneficiarem pessoas com deficiência permanente, esses recursos também podem ser utilizados por pessoas com limitações temporárias, como um braço engessado, ou em situações específicas, como ambientes com pouca iluminação ou muito ruído. Dessa forma, as tecnologias assistivas tornam a interação com o ambiente físico e digital mais acessível para diferentes perfis de usuários.
+
+
+
 ---
 
 ## Referências e Histórico
