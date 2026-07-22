@@ -31,6 +31,20 @@ Entre os principais benefícios das tecnologias assistivas, destacam-se:
 
 - **Melhor qualidade de vida:** reduzem barreiras e proporcionam mais independência, segurança e participação na sociedade.
 
+ ##  Categorias de Tecnologias Assistivas
+
+As tecnologias assistivas podem ser classificadas em diferentes categorias, de acordo com sua finalidade. Elas não se limitam a equipamentos tecnológicos, mas também incluem recursos, serviços e adaptações que promovem mais autonomia e inclusão.
+
+As principais categorias são:
+
+- **🏠 Auxílio para a vida diária:** recursos que facilitam atividades do cotidiano, como alimentação, higiene pessoal, vestir-se e cuidados com a casa.
+
+- **💬 Comunicação aumentativa e alternativa (CAA):** ferramentas que auxiliam pessoas com dificuldades na fala ou comunicação, como pranchas de comunicação e dispositivos vocalizadores.
+
+- **💻 Acessibilidade ao computador:** equipamentos e softwares que permitem o uso de computadores e dispositivos digitais, como leitores de tela, teclados adaptados, mouses especiais e lupas virtuais.
+
+
+
 ---
 
 ## Referências e Histórico
