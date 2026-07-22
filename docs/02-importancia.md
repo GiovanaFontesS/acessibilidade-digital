@@ -1,6 +1,6 @@
 #  Importância da Acessibilidade Digital
 
----
+
 
 A acessibilidade digital desempenha um papel fundamental na construção de uma sociedade mais inclusiva. Além de garantir que pessoas com diferentes necessidades possam utilizar tecnologias com autonomia e segurança, ela também traz benefícios para empresas, organizações e para todos os usuários.
 
