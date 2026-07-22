@@ -123,6 +123,7 @@ Embora o nível **AAA** represente o maior grau de conformidade, a própria WCAG
 |------------|-------------------|------|------------|
 | Documento criado | Giovana Fontes | 6/07/2026 | Estrutura inicial do documento. |
 | Web Content Accessibility Guidelines (WCAG) 2.2 | W3C – Web Accessibility Initiative (WAI) | 17/07/2026 | Base para a introdução e definição da WCAG. |
+| Revisão e Correções | Giovana Fontes | 22/07/2026 | Revisão do documento | 
 
 
 ---
