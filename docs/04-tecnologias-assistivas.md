@@ -37,18 +37,19 @@ As tecnologias assistivas podem ser classificadas em diferentes categorias, de a
 
 As principais categorias são:
 
-- **🏠 Auxílio para a vida diária:** recursos que facilitam atividades do cotidiano, como alimentação, higiene pessoal, vestir-se e cuidados com a casa.
+- **Auxílio para a vida diária:** recursos que facilitam atividades do cotidiano, como alimentação, higiene pessoal, vestir-se e cuidados com a casa.
 
-- **💬 Comunicação aumentativa e alternativa (CAA):** ferramentas que auxiliam pessoas com dificuldades na fala ou comunicação, como pranchas de comunicação e dispositivos vocalizadores.
+- **Comunicação aumentativa e alternativa (CAA):** ferramentas que auxiliam pessoas com dificuldades na fala ou comunicação, como pranchas de comunicação e dispositivos vocalizadores.
 
-- **💻 Acessibilidade ao computador:** equipamentos e softwares que permitem o uso de computadores e dispositivos digitais, como leitores de tela, teclados adaptados, mouses especiais e lupas virtuais.
-- **🏡 Controle de ambiente:** tecnologias que permitem controlar aparelhos eletrônicos por comandos de voz ou outros recursos, como assistentes virtuais (Alexa e Siri).
+- **Acessibilidade ao computador:** equipamentos e softwares que permitem o uso de computadores e dispositivos digitais, como leitores de tela, teclados adaptados, mouses especiais e lupas virtuais.
+  
+- **Controle de ambiente:** tecnologias que permitem controlar aparelhos eletrônicos por comandos de voz ou outros recursos, como assistentes virtuais (Alexa e Siri).
 
-- **♿ Mobilidade e acessibilidade física:** incluem cadeiras de rodas, bengalas, muletas, andadores, próteses, órteses e adaptações em ambientes e veículos para facilitar a locomoção.
+- **Mobilidade e acessibilidade física:** incluem cadeiras de rodas, bengalas, muletas, andadores, próteses, órteses e adaptações em ambientes e veículos para facilitar a locomoção.
 
-- **👁️ Recursos para deficiência visual:** equipamentos e softwares voltados para pessoas cegas ou com baixa visão, como leitores de tela, linhas Braille, lupas e ampliadores de tela.
+- **Recursos para deficiência visual:** equipamentos e softwares voltados para pessoas cegas ou com baixa visão, como leitores de tela, linhas Braille, lupas e ampliadores de tela.
 
-- **🦻 Recursos para deficiência auditiva:** aparelhos auditivos, sistemas de amplificação sonora, legendas, plataformas com tradução em Libras e outros recursos que facilitam a comunicação.
+- **Recursos para deficiência auditiva:** aparelhos auditivos, sistemas de amplificação sonora, legendas, plataformas com tradução em Libras e outros recursos que facilitam a comunicação.
 
 Cada uma dessas categorias busca atender necessidades específicas, contribuindo para que pessoas com diferentes tipos de deficiência tenham maior autonomia e participação na sociedade.
 
