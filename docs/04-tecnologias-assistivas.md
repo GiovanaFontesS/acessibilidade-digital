@@ -53,6 +53,10 @@ As principais categorias são:
 
 Cada uma dessas categorias busca atender necessidades específicas, contribuindo para que pessoas com diferentes tipos de deficiência tenham maior autonomia e participação na sociedade.
 
+## 🛠️ Principais Ferramentas de Tecnologia Assistiva
+
+As tecnologias assistivas podem ser encontradas em diferentes formas e são desenvolvidas para atender às necessidades de pessoas com deficiência ou mobilidade reduzida. Entre os principais exemplos estão os leitores de tela, tradutores de Libras, teclados e mouses adaptados, computadores acessíveis, aparelhos auditivos, pisos táteis, rampas de acesso, sinalizações em Braille, mobiliários adaptados e assistentes virtuais. Esses recursos auxiliam na comunicação, mobilidade, acesso à informação e utilização de tecnologias, contribuindo para a redução de barreiras e proporcionando mais autonomia, independência e inclusão no dia a dia.
+
 ---
 
 ## Referências e Histórico
