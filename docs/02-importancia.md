@@ -39,3 +39,4 @@ Portanto, investir em acessibilidade digital não significa apenas cumprir a leg
 | Organização das Nações Unidas (ONU) | ONU | 16/07/2026 | Dados sobre a população mundial com deficiência. |
 | Lei Brasileira de Inclusão da Pessoa com Deficiência – Lei nº 13.146/2015 | Presidência da República | 16/07/2026 | Obrigatoriedade da acessibilidade e inclusão digital. |
 | Lei Geral de Proteção de Dados – Lei nº 13.709/2018 | Presidência da República | 16/07/2026 | Relação entre transparência, inclusão e adequação de sistemas. |
+| Revisão e Correções | Giovana Fontes | 22/07/2026 | Revisão do documento | 
