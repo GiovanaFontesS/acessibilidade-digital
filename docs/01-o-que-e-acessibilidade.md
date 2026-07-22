@@ -1,5 +1,5 @@
 # O que é Acessibilidade Digital? 
----
+
 
  A falta de acessibilidade no ambiente digital impacta principalmente pessoas com deficiências permanentes ou temporárias, dificultando e, em muitos casos, impossibilitando o acesso a sites, aplicativos, plataformas e demais serviços disponíveis na internet. Barreiras como imagens sem descrição, ausência de navegação por teclado, baixo contraste entre cores, vídeos sem legendas e incompatibilidade com tecnologias assistivas comprometem a experiência do usuário e limitam o acesso à informação.
 
