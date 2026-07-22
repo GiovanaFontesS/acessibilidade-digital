@@ -17,7 +17,19 @@ As tecnologias assistivas desempenham um papel fundamental na promoção da incl
 
 Além de beneficiarem pessoas com deficiência permanente, esses recursos também podem ser utilizados por pessoas com limitações temporárias, como um braço engessado, ou em situações específicas, como ambientes com pouca iluminação ou muito ruído. Dessa forma, as tecnologias assistivas tornam a interação com o ambiente físico e digital mais acessível para diferentes perfis de usuários.
 
+Para desenvolver esses recursos, são analisadas as dificuldades enfrentadas pelos usuários em suas atividades diárias. A partir dessa identificação, são criadas soluções capazes de minimizar ou eliminar essas barreiras, facilitando a comunicação, o acesso à informação, a mobilidade e a utilização de serviços e tecnologias.
 
+Entre os principais benefícios das tecnologias assistivas, destacam-se:
+
+- **Inclusão social:** promovem a participação das pessoas com deficiência em diferentes ambientes, como educação, trabalho e lazer.
+
+- **Maior autonomia:** permitem que os usuários realizem atividades do cotidiano com menos dependência de outras pessoas.
+
+- **Acessibilidade digital:** possibilitam o acesso a sites, aplicativos, sistemas e dispositivos por meio de recursos adaptados às diferentes necessidades.
+
+- **Igualdade de oportunidades:** contribuem para que todas as pessoas tenham condições mais justas de acesso à informação, comunicação e serviços.
+
+- **Melhor qualidade de vida:** reduzem barreiras e proporcionam mais independência, segurança e participação na sociedade.
 
 ---
 
