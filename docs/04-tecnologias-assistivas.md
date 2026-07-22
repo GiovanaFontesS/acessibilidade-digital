@@ -1,6 +1,5 @@
 # Tecnologias Assistivas
 
----
 
 As **tecnologias assistivas** são recursos, produtos, equipamentos e serviços desenvolvidos para promover a autonomia, a independência e a inclusão de pessoas com deficiência ou mobilidade reduzida. Seu principal objetivo é reduzir barreiras e permitir que essas pessoas realizem atividades do dia a dia de forma mais acessível e com maior igualdade de oportunidades.
 
