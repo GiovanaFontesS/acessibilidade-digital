@@ -1,7 +1,5 @@
 #  Princípios da WCAG
 
----
-
 A **WCAG (Web Content Accessibility Guidelines)**, ou **Diretrizes de Acessibilidade para Conteúdo Web**, é um conjunto de recomendações internacionais que orienta o desenvolvimento de sites, aplicações e conteúdos digitais mais acessíveis.
 
 Seu principal objetivo é auxiliar desenvolvedores, designers e organizações na criação de experiências digitais que possam ser utilizadas pelo maior número possível de pessoas, incluindo usuários com diferentes tipos de deficiência.
