@@ -106,4 +106,5 @@ Cada grupo de usuários possui necessidades diferentes. Por isso, não basta que
 | Convenção Internacional sobre os Direitos das Pessoas com Deficiência | Organização das Nações Unidas (ONU) | 16/07/2026 | Base para os direitos das pessoas com deficiência. |
 | Lei Brasileira de Inclusão da Pessoa com Deficiência – Lei nº 13.146/2015 | Presidência da República | 16/07/2026 | Art. 63 – Obrigatoriedade da acessibilidade em sítios da internet. |
 | *A Acessibilidade à Informação no Espaço Digital* | SciELO / SCImago Institutions Rankings | 16/07/2026 | Base conceitual para a definição de acessibilidade digital. |
+| Revisão e Correções | Giovana Fontes | 22/07/2026 | Revisão do documento | 
 
