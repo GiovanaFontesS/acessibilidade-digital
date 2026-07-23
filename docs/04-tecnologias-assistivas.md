@@ -72,4 +72,5 @@ No contexto da acessibilidade digital, conhecer e considerar essas tecnologias d
 | Documento criado | Giovana Fontes | 16/07/2026 | Estrutura inicial do documento. |
 | Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146/2015) | Governo Federal | 22/07/2026 | Definição e direitos relacionados às tecnologias assistivas. |
 | Comitê de Ajudas Técnicas (CAT) | Governo Federal | 22/07/2026 | Histórico da adoção do termo "Tecnologia Assistiva" no Brasil. |
+| Revisão e Correções | Giovana Fontes | 23/07/2026 | Revisão do documento | 
 ---
