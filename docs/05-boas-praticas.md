@@ -1,6 +1,5 @@
 # Boas Práticas de Acessibilidade Digital
 
----
 
 Desenvolver conteúdos acessíveis vai além de cumprir normas e legislações. A adoção de boas práticas de acessibilidade tem como objetivo garantir que todas as pessoas, independentemente de suas características ou limitações, possam acessar informações e utilizar serviços digitais com autonomia, segurança e igualdade.
 
@@ -14,9 +13,9 @@ Nos próximos tópicos serão apresentadas algumas das principais boas práticas
 
 ---
 
-## 📚 Referências e Histórico
+##  Referências e Histórico
 
 | Referência | Autor/Instituição | Data | Observação |
 |------------|-------------------|------|------------|
 | Documento criado | Giovana Fontes | 16/07/2026 | Estrutura inicial do documento. |
-| Guia de Boas Práticas em Acessibilidade Digital | Governo Federal | 16/07/2026 | Base para os conceitos e recomendações apresentados neste documento. |
+| Guia de Boas Práticas em Acessibilidade Digital | Governo Federal | 23/07/2026 | Base para os conceitos e recomendações apresentados neste documento. |
