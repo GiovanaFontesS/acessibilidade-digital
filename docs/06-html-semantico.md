@@ -1,6 +1,5 @@
 # HTML Semântico
 
----
 
 O **HTML semântico** consiste na utilização de elementos que descrevem o significado e a função do conteúdo de uma página, em vez de apenas definir sua aparência. Dessa forma, cada parte do documento possui uma estrutura clara e organizada, facilitando a interpretação tanto pelos navegadores quanto por mecanismos de busca e tecnologias assistivas, como os leitores de tela.
 
