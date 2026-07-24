@@ -1,4 +1,4 @@
-# 🏗️ HTML Semântico
+# HTML Semântico
 
 ---
 
@@ -17,5 +17,5 @@ Nos próximos tópicos serão apresentadas as principais tags semânticas do HTM
 | Referência | Autor/Instituição | Data | Observação |
 |------------|-------------------|------|------------|
 | Documento criado | Giovana Fontes | 16/07/2026 | Estrutura inicial do documento. |
-| HTML Living Standard | WHATWG | 16/07/2026 | Definição e uso de elementos semânticos do HTML. |
-| Web Content Accessibility Guidelines (WCAG) 2.2 | W3C – Web Accessibility Initiative (WAI) | 16/07/2026 | Relação entre HTML semântico e acessibilidade digital. |
+| HTML Living Standard | WHATWG | 23/07/2026 | Definição e uso de elementos semânticos do HTML. |
+| Web Content Accessibility Guidelines (WCAG) 2.2 | W3C – Web Accessibility Initiative (WAI) | 23/07/2026 | Relação entre HTML semântico e acessibilidade digital. |
