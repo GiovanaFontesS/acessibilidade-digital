@@ -9,7 +9,43 @@ Além de contribuir para a acessibilidade digital, o HTML semântico melhora a m
 
 Nos próximos tópicos serão apresentadas as principais tags semânticas do HTML e sua importância para o desenvolvimento de páginas acessíveis.
 
+# 🏗️ HTML Semântico
+
 ---
+
+O **HTML semântico** utiliza elementos que descrevem o significado do conteúdo da página, facilitando a interpretação por navegadores, mecanismos de busca e tecnologias assistivas. Além de tornar o código mais organizado, contribui para a acessibilidade e segue as boas práticas recomendadas pelo W3C.
+
+## Principais tags semânticas
+
+| Tag | Função |
+|------|--------|
+| `<header>` | Define o cabeçalho da página ou de uma seção. |
+| `<nav>` | Representa a área de navegação com menus e links. |
+| `<main>` | Contém o conteúdo principal da página. |
+| `<section>` | Agrupa conteúdos relacionados por um mesmo tema. |
+| `<article>` | Representa um conteúdo independente, como artigos ou notícias. |
+| `<aside>` | Exibe conteúdos complementares ao conteúdo principal. |
+| `<footer>` | Define o rodapé da página ou de uma seção. |
+| `<figure>` | Agrupa imagens, gráficos ou ilustrações. |
+| `<figcaption>` | Adiciona uma legenda ao conteúdo da tag `<figure>`. |
+| `<address>` | Exibe informações de contato do autor ou organização. |
+| `<time>` | Representa datas e horários de forma padronizada. |
+| `<details>` | Cria uma seção que pode ser expandida ou recolhida pelo usuário. |
+| `<summary>` | Define o título visível da tag `<details>`. |
+
+---
+
+## Benefícios
+
+| Benefício | Descrição |
+|------------|-----------|
+| ♿ Acessibilidade | Facilita a navegação por leitores de tela e outras tecnologias assistivas. |
+| 🔍 SEO | Ajuda os mecanismos de busca a compreenderem melhor o conteúdo da página. |
+| 🧑‍💻 Organização | Deixa o código mais limpo, estruturado e fácil de manter. |
+| 🤝 Boas práticas | Segue as recomendações do W3C e da WCAG para desenvolvimento web. |
+
+---
+
 
 ## 📚 Referências e Histórico
 
