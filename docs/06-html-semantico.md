@@ -27,16 +27,10 @@ Nos próximos tópicos serão apresentadas as principais tags semânticas do HTM
 | `<details>` | Cria uma seção que pode ser expandida ou recolhida pelo usuário. |
 | `<summary>` | Define o título visível da tag `<details>`. |
 
----
 
-## Benefícios
+## Importância do HTML Semântico
 
-| Benefício | Descrição |
-|------------|-----------|
-|  Acessibilidade | Facilita a navegação por leitores de tela e outras tecnologias assistivas. |
-|  SEO | Ajuda os mecanismos de busca a compreenderem melhor o conteúdo da página. |
-|  Organização | Deixa o código mais limpo, estruturado e fácil de manter. |
-|  Boas práticas | Segue as recomendações do W3C e da WCAG para desenvolvimento web. |
+O uso do HTML semântico melhora a organização do código, facilita sua manutenção e torna as páginas mais acessíveis para pessoas que utilizam tecnologias assistivas. Além disso, contribui para uma melhor indexação em mecanismos de busca (SEO) e segue as boas práticas recomendadas para o desenvolvimento de aplicações Web acessíveis.
 
 ---
 
