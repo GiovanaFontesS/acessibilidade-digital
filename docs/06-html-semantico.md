@@ -35,7 +35,7 @@ Nos próximos tópicos serão apresentadas as principais tags semânticas do HTM
 |------------|-----------|
 |  Acessibilidade | Facilita a navegação por leitores de tela e outras tecnologias assistivas. |
 |  SEO | Ajuda os mecanismos de busca a compreenderem melhor o conteúdo da página. |
-| 🧑‍💻 Organização | Deixa o código mais limpo, estruturado e fácil de manter. |
+|  Organização | Deixa o código mais limpo, estruturado e fácil de manter. |
 | 🤝 Boas práticas | Segue as recomendações do W3C e da WCAG para desenvolvimento web. |
 
 ---
