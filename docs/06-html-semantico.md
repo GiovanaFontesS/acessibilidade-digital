@@ -9,12 +9,6 @@ Além de contribuir para a acessibilidade digital, o HTML semântico melhora a m
 
 Nos próximos tópicos serão apresentadas as principais tags semânticas do HTML e sua importância para o desenvolvimento de páginas acessíveis.
 
-# 🏗️ HTML Semântico
-
----
-
-O **HTML semântico** utiliza elementos que descrevem o significado do conteúdo da página, facilitando a interpretação por navegadores, mecanismos de busca e tecnologias assistivas. Além de tornar o código mais organizado, contribui para a acessibilidade e segue as boas práticas recomendadas pelo W3C.
-
 ## Principais tags semânticas
 
 | Tag | Função |
