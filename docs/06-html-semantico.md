@@ -41,7 +41,7 @@ Nos próximos tópicos serão apresentadas as principais tags semânticas do HTM
 ---
 
 
-## 📚 Referências e Histórico
+##  Referências e Histórico
 
 | Referência | Autor/Instituição | Data | Observação |
 |------------|-------------------|------|------------|
