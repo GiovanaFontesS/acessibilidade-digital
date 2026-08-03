@@ -13,57 +13,66 @@ Nos próximos tópicos serão apresentadas algumas das principais boas práticas
 
 Ao incorporar essas práticas desde as primeiras etapas do desenvolvimento, é possível criar produtos digitais mais inclusivos, reduzindo a necessidade de adaptações futuras e proporcionando uma melhor experiência para todos os usuários. Além disso, desenvolver com acessibilidade em mente contribui para a qualidade do software, melhora a usabilidade e demonstra o compromisso das organizações com a inclusão e a responsabilidade social.
 
-##  Linguagem clara e objetiva
+## Linguagem clara e objetiva
 
-Utilize uma linguagem simples, direta e de fácil compreensão. Evite termos muito técnicos ou ambiguidades e, quando necessário, explique palavras mais complexas. Um conteúdo claro beneficia todos os usuários, especialmente pessoas com deficiência cognitiva ou dificuldades de leitura.
+- Utilize palavras simples e de fácil compreensão.
+- Evite termos técnicos sem explicação.
+- Organize as informações de forma lógica e objetiva.
+- Escreva pensando em todos os tipos de usuários.
 
+## Texto alternativo em imagens
 
-##  Texto alternativo em imagens
+- Adicione descrições (`alt`) em imagens que transmitam informação.
+- Descreva o conteúdo de forma objetiva e relevante.
+- Imagens decorativas devem possuir texto alternativo vazio (`alt=""`).
 
-Toda imagem que transmite uma informação importante deve possuir um texto alternativo (atributo `alt`) que descreva seu conteúdo. Isso permite que leitores de tela interpretem a imagem para pessoas com deficiência visual.
+## Contraste de cores
 
+- Utilize contraste suficiente entre texto e plano de fundo.
+- Não utilize apenas cores para transmitir informações.
+- Garanta boa legibilidade para usuários com baixa visão ou daltonismo.
 
-##  Contraste de cores
+## Navegação por teclado
 
-Garanta contraste suficiente entre o texto e o plano de fundo para facilitar a leitura. Além disso, não utilize apenas cores para transmitir informações, pois usuários com daltonismo ou baixa visão podem ter dificuldades em identificá-las.
+- Permita que toda a página seja utilizada apenas com o teclado.
+- Mantenha uma ordem lógica de navegação.
+- Certifique-se de que todos os elementos interativos possam receber foco.
 
+## Formulários acessíveis
 
-##  Navegação por teclado
+- Associe cada campo ao seu respectivo rótulo (`label`).
+- Forneça instruções claras para o preenchimento.
+- Exiba mensagens de erro objetivas e fáceis de entender.
 
-Todo o conteúdo deve ser acessível sem o uso do mouse. Usuários que utilizam teclado ou outras tecnologias assistivas precisam conseguir navegar, selecionar e interagir com todos os elementos da página.
+## HTML semântico
 
+- Utilize elementos semânticos para estruturar o conteúdo.
+- Organize corretamente títulos, seções e áreas de navegação.
+- Facilite a interpretação por navegadores e leitores de tela.
 
-##  Formulários acessíveis
+## Links descritivos
 
-Os campos dos formulários devem possuir rótulos (labels), instruções claras e mensagens de erro compreensíveis. Isso facilita o preenchimento por todos os usuários e melhora a experiência com leitores de tela.
+- Utilize textos que indiquem claramente o destino do link.
+- Evite expressões como "Clique aqui" ou "Saiba mais".
+- Permita que o usuário compreenda o objetivo do link antes de acessá-lo.
 
+## Conteúdos multimídia
 
-##  HTML semântico
+- Adicione legendas em vídeos.
+- Disponibilize transcrições para conteúdos em áudio.
+- Utilize audiodescrição quando necessário.
 
-Utilize corretamente as tags semânticas do HTML, como `<header>`, `<main>`, `<nav>` e `<footer>`. Essa estrutura ajuda navegadores, mecanismos de busca e tecnologias assistivas a compreenderem melhor o conteúdo da página.
+## Design responsivo
 
+- Garanta que o conteúdo funcione em diferentes dispositivos.
+- Permita redimensionamento do texto sem perda de conteúdo.
+- Evite elementos que dificultem a navegação em telas menores.
 
+## Testes de acessibilidade
 
-##  Links descritivos
-
-Os links devem indicar claramente seu destino ou função. Evite textos genéricos como "Clique aqui" ou "Saiba mais", pois eles dificultam a navegação para usuários de leitores de tela.
-
----
-
-##  Conteúdos multimídia
-
-Vídeos e áudios devem oferecer recursos como legendas, transcrições e, quando necessário, audiodescrição. Essas alternativas tornam o conteúdo acessível para pessoas com deficiência auditiva ou visual.
-
-
-
-##  Design responsivo
-
-O conteúdo deve se adaptar a diferentes tamanhos de tela e dispositivos, permitindo uma navegação confortável tanto em computadores quanto em tablets e smartphones.
-
-
-##  Testes de acessibilidade
-
-A acessibilidade deve ser verificada durante todo o desenvolvimento por meio de testes com ferramentas automáticas e, sempre que possível, com usuários que utilizam tecnologias assistivas. Essa prática ajuda a identificar barreiras e aprimorar a experiência de uso.
+- Utilize ferramentas de avaliação de acessibilidade.
+- Teste a navegação utilizando apenas o teclado.
+- Sempre que possível, realize testes com tecnologias assistivas e usuários reais.
 
 ---
 
