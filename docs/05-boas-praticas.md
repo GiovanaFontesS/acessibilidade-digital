@@ -11,6 +11,8 @@ Além disso, a acessibilidade é reconhecida como um **direito humano**, sendo r
 
 Nos próximos tópicos serão apresentadas algumas das principais boas práticas recomendadas para tornar conteúdos digitais mais acessíveis e inclusivos.
 
+Ao incorporar essas práticas desde as primeiras etapas do desenvolvimento, é possível criar produtos digitais mais inclusivos, reduzindo a necessidade de adaptações futuras e proporcionando uma melhor experiência para todos os usuários. Além disso, desenvolver com acessibilidade em mente contribui para a qualidade do software, melhora a usabilidade e demonstra o compromisso das organizações com a inclusão e a responsabilidade social.
+
 ---
 
 ##  Referências e Histórico
