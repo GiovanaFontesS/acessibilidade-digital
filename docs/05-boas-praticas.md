@@ -13,61 +13,55 @@ Nos próximos tópicos serão apresentadas algumas das principais boas práticas
 
 Ao incorporar essas práticas desde as primeiras etapas do desenvolvimento, é possível criar produtos digitais mais inclusivos, reduzindo a necessidade de adaptações futuras e proporcionando uma melhor experiência para todos os usuários. Além disso, desenvolver com acessibilidade em mente contribui para a qualidade do software, melhora a usabilidade e demonstra o compromisso das organizações com a inclusão e a responsabilidade social.
 
-## 📝 Linguagem clara e objetiva
+##  Linguagem clara e objetiva
 
 Utilize uma linguagem simples, direta e de fácil compreensão. Evite termos muito técnicos ou ambiguidades e, quando necessário, explique palavras mais complexas. Um conteúdo claro beneficia todos os usuários, especialmente pessoas com deficiência cognitiva ou dificuldades de leitura.
 
----
 
-## 🖼️ Texto alternativo em imagens
+##  Texto alternativo em imagens
 
 Toda imagem que transmite uma informação importante deve possuir um texto alternativo (atributo `alt`) que descreva seu conteúdo. Isso permite que leitores de tela interpretem a imagem para pessoas com deficiência visual.
 
----
 
-## 🎨 Contraste de cores
+##  Contraste de cores
 
 Garanta contraste suficiente entre o texto e o plano de fundo para facilitar a leitura. Além disso, não utilize apenas cores para transmitir informações, pois usuários com daltonismo ou baixa visão podem ter dificuldades em identificá-las.
 
----
 
-## ⌨️ Navegação por teclado
+##  Navegação por teclado
 
 Todo o conteúdo deve ser acessível sem o uso do mouse. Usuários que utilizam teclado ou outras tecnologias assistivas precisam conseguir navegar, selecionar e interagir com todos os elementos da página.
 
----
 
-## 📝 Formulários acessíveis
+##  Formulários acessíveis
 
 Os campos dos formulários devem possuir rótulos (labels), instruções claras e mensagens de erro compreensíveis. Isso facilita o preenchimento por todos os usuários e melhora a experiência com leitores de tela.
 
----
 
-## 🏗️ HTML semântico
+##  HTML semântico
 
 Utilize corretamente as tags semânticas do HTML, como `<header>`, `<main>`, `<nav>` e `<footer>`. Essa estrutura ajuda navegadores, mecanismos de busca e tecnologias assistivas a compreenderem melhor o conteúdo da página.
 
----
 
-## 🔗 Links descritivos
+
+##  Links descritivos
 
 Os links devem indicar claramente seu destino ou função. Evite textos genéricos como "Clique aqui" ou "Saiba mais", pois eles dificultam a navegação para usuários de leitores de tela.
 
 ---
 
-## 🎥 Conteúdos multimídia
+##  Conteúdos multimídia
 
 Vídeos e áudios devem oferecer recursos como legendas, transcrições e, quando necessário, audiodescrição. Essas alternativas tornam o conteúdo acessível para pessoas com deficiência auditiva ou visual.
 
----
 
-## 📱 Design responsivo
+
+##  Design responsivo
 
 O conteúdo deve se adaptar a diferentes tamanhos de tela e dispositivos, permitindo uma navegação confortável tanto em computadores quanto em tablets e smartphones.
 
----
 
-## 🧪 Testes de acessibilidade
+##  Testes de acessibilidade
 
 A acessibilidade deve ser verificada durante todo o desenvolvimento por meio de testes com ferramentas automáticas e, sempre que possível, com usuários que utilizam tecnologias assistivas. Essa prática ajuda a identificar barreiras e aprimorar a experiência de uso.
 
