@@ -48,7 +48,6 @@ O conteúdo deve continuar legível e funcional quando ampliado. Os usuários de
 
 ---
 
-##  Referências e Histórico
 
 ## Referências e Histórico
 
