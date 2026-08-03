@@ -50,9 +50,14 @@ O conteúdo deve continuar legível e funcional quando ampliado. Os usuários de
 
 ##  Referências e Histórico
 
+## Referências e Histórico
+
 | Referência | Autor/Instituição | Data | Observação |
 |------------|-------------------|------|------------|
-| - | Giovana Fontes | 16/07/2026 | Documento criado |
+| Documento criado | Giovana Fontes | 16/07/2026 | Estrutura inicial do documento. |
+| Web Content Accessibility Guidelines (WCAG) 2.2 | W3C – Web Accessibility Initiative (WAI) | 03/08/2026 | Diretrizes internacionais de acessibilidade para conteúdo Web. |
+| Guia de Boas Práticas em Acessibilidade Digital | Governo Federal do Brasil | 03/08/2026 | Recomendações para desenvolvimento de conteúdos e serviços digitais acessíveis. |
+| Cartilha de Acessibilidade na Web | NIC.br / CeWeb.br | 03/08/2026 | Material de apoio sobre boas práticas de acessibilidade na Web. |
 
 
 ---
