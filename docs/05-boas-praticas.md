@@ -82,3 +82,4 @@ Ao incorporar essas práticas desde as primeiras etapas do desenvolvimento, é p
 |------------|-------------------|------|------------|
 | Documento criado | Giovana Fontes | 16/07/2026 | Estrutura inicial do documento. |
 | Guia de Boas Práticas em Acessibilidade Digital | Governo Federal | 23/07/2026 | Base para os conceitos e recomendações apresentados neste documento. |
+| Guia de Boas Práticas em Acessibilidade Digital | Governo Federal | 03/08/2026 | Principais Boas Práticas. |
