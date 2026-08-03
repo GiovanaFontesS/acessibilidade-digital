@@ -11,7 +11,7 @@ As Diretrizes de Acessibilidade para Conteúdo Web (WCAG) recomendam uma taxa m�
 
 | Referência | Autor/Instituição | Data | Observação |
 |------------|-------------------|------|------------|
-| - | Giovana Fontes | 16/07/2026 | Documento criado |
-
+| Giovana Fontes | Giovana Fontes | 16/07/2026 | Documento criado |
+| Web Content Accessibility Guidelines (WCAG) 2.2 | W3C – Web Accessibility Initiative (WAI) | 03/08/2026 | Critérios de contraste de cores (Critério de Sucesso 1.4.3 e 1.4.11). |
 
 ---
