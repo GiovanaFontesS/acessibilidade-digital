@@ -7,6 +7,7 @@ Além disso, as cores não devem ser utilizadas como o único meio para transmit
 
 As Diretrizes de Acessibilidade para Conteúdo Web (WCAG) recomendam uma taxa mínima de contraste de **4,5:1** para textos comuns e **3:1** para textos grandes, contribuindo para uma melhor experiência de leitura e acessibilidade.
 
+
 ##  Referências e Histórico
 
 | Referência | Autor/Instituição | Data | Observação |
