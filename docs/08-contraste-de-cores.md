@@ -26,5 +26,6 @@ Para garantir uma boa acessibilidade, recomenda-se utilizar combinações de cor
 |------------|-------------------|------|------------|
 | Giovana Fontes | Giovana Fontes | 16/07/2026 | Documento criado |
 | Web Content Accessibility Guidelines (WCAG) 2.2 | W3C – Web Accessibility Initiative (WAI) | 03/08/2026 | Critérios de contraste de cores (Critério de Sucesso 1.4.3 e 1.4.11). |
+| Guia de Boas Práticas em Acessibilidade Digital | Governo Federal do Brasil | 06/08/2026 | Recomendações sobre contraste e uso adequado de cores em interfaces digitais.|
 
 ---
